@@ -11,7 +11,7 @@ module.exports = {
   //   https: true,
   //   proxy: {
   //     "/test": {
-  //       target: "http://10.200.201.32:9030", // IT服务平台测试服
+  //       target: "xxx",
   //       changeOrigin: true,
   //       pathRewrite: {
   //         "^/test": "/"
