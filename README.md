@@ -1,24 +1,7 @@
-# test-element-uil
+# elementui-scss-theme-no-repeat
 
-## Project setup
-```
-yarn install
-```
+参考的 https://www.jianshu.com/p/904b36676304 的配置
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+不过上面的文章中的ext配置应该和libraryName、styleLibrary同级
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+这个自定义主题的demo(vue cli项目)仅参考。
