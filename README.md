@@ -10,6 +10,7 @@
 ### 主要做了下面几个配置
 ## 1、配置babel.config.js
 ![image](https://user-images.githubusercontent.com/19161200/130808727-85026050-00e8-4631-84e9-e341d95e19bc.png) {:height="150px"}
+<img src="https://user-images.githubusercontent.com/19161200/130808727-85026050-00e8-4631-84e9-e341d95e19bc.png" width="100px">
 ## 2、全局scss
 ![image](https://user-images.githubusercontent.com/19161200/130808593-5b9cbe8e-e457-4874-99a0-eb984fe070b7.png) {:height="150px"}
 ## 3、自定义主题
