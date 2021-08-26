@@ -9,11 +9,11 @@
 
 ### 主要做了下面几个配置
 ## 1、配置babel.config.js
-<img src="https://user-images.githubusercontent.com/19161200/130808727-85026050-00e8-4631-84e9-e341d95e19bc.png" height="500px">
+<img src="https://user-images.githubusercontent.com/19161200/130808727-85026050-00e8-4631-84e9-e341d95e19bc.png" height="400px">
 ## 2、全局scss
-<img src="https://user-images.githubusercontent.com/19161200/130808593-5b9cbe8e-e457-4874-99a0-eb984fe070b7.png" height="500px">
+<img src="https://user-images.githubusercontent.com/19161200/130808593-5b9cbe8e-e457-4874-99a0-eb984fe070b7.png" height="400px">
 ## 3、自定义主题
-<img src="https://user-images.githubusercontent.com/19161200/130808777-ab56edcd-4763-4c0f-a76c-38bd7db202ba.png" height="500px">
+<img src="https://user-images.githubusercontent.com/19161200/130808777-ab56edcd-4763-4c0f-a76c-38bd7db202ba.png" height="400px">
 
 
 
